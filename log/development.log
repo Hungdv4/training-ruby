@@ -157,3 +157,10 @@ Processing by Rails::WelcomeController#index as HTML
 Completed 200 OK in 1ms (Views: 0.5ms | ActiveRecord: 0.0ms | Allocations: 274)
 
 
+Started GET "/" for 127.0.0.1 at 2023-04-19 13:30:07 +0700
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/hung/.rvm/gems/ruby-3.0.0/gems/railties-7.0.4.3/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/hung/.rvm/gems/ruby-3.0.0/gems/railties-7.0.4.3/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.2ms | Allocations: 727)
+Completed 200 OK in 9ms (Views: 3.3ms | ActiveRecord: 0.0ms | Allocations: 5948)
+
+
