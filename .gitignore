@@ -1,0 +1,6 @@
+tmp/
+log/
+log/development.log
+node_modules/
+tmp/pids/server.pid
+coverage/
