@@ -1,0 +1,29 @@
+.title {
+    font-size: 30px;
+    font-weight: bold;
+    color: blue;
+    text-align: center;
+}
+
+form.new_user {
+    max-width: 800px;
+    margin: auto;
+    width: 100%;
+    border: 1px solid blue;
+    padding: 4% 10%;
+    box-shadow: 5px 10px 5px silver;
+}
+
+form .actions {
+    text-align: center;
+    padding-top: 20px;
+    input[type="submit"]{
+        border: 1px solid;
+        border-radius: 50px;
+        width: 69%;
+        color: blue;
+        height: 8vh;
+        cursor: pointer;
+    }
+}
+
